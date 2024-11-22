@@ -1,0 +1,15 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Bacuase already sorted data it performed faster than selection sort
+
+sort2 uses: Merge Sort
+
+How do you know?: Because on revered values using fastest algorithm
+
+sort3 uses: Selection sort
+
+How do you know?: Becase sorted data it had same time as far reversed or unsorted data
+
+1: 0m0.075s
+2: 0m0.069s
+3: 0m0.151s
